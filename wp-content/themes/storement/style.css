@@ -80,6 +80,14 @@ body.single-product .yith-wcwl-wishlistexistsbrowse a:before, body.single-produc
     }
 }
 
+@media only screen and (max-width: 600px) {
+    .aft-tertiary-background-color .customer-support{
+        display: none;
+    }
+}
+
+
+
 .woocommerce-Price-amount{
     color: #cc0000;
     font-weight: bold;
@@ -138,3 +146,333 @@ ul.products li.product a.button.add_to_cart_button, .button.product_type_grouped
     margin-top: 15px;
 }
 
+html, body{
+    overflow-x: hidden;
+}
+
+#cfacebook{
+    position: fixed;
+    bottom: 0px;
+    right: 30px;
+    z-index: 9000;
+    /*width: 250px;*/ height: auto;
+    /*box-shadow: 6px 6px 6px 10px rgba(0,0,0,0.2);*/
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: right;
+}
+
+
+/*#cfacebook .fchat{float: left; width: 100%; height: 295px; overflow: hidden; display: none; background-color: #fff;}*/
+#cfacebook .fchat .chat-single{float: left; line-height: 25px; line-height: 25px; color: #333; width: 100%;}
+#cfacebook .fchat .chat-single a{float: right; text-decoration: none; margin-right: 10px; color: #888; font-size: 12px;}
+#cfacebook .fchat .chat-single a:hover{color: #222;}
+
+/*#cfacebook .fchat .fb-page{margin-top: -130px; float: left;}*/
+#cfacebook a.chat_fb{
+    float: left;
+    padding: 0 25px;
+    width: 250px;
+    color: #fff;
+    text-decoration: none;
+    height: 70px;
+    line-height: 40px;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAqCAMAAABFoMFOAAAAWlBMV…8/UxBxQDQuFwlpqgBZBq6+P+unVY1GnDgwqbD2zGz5e1lBdwvGGPE6OgAAAABJRU5ErkJggg==);
+    background-repeat: repeat-x;
+    background-size: auto;
+    background-position: 0 0;
+    /*background-color: #0065BF;*/
+    border: 0;
+    /*border-bottom: 1px solid #0065BF;*/
+    z-index: 9999999;
+    margin-right: 12px; font-size: 18px;}
+#cfacebook a.chat_fb:hover{color: yellow; text-decoration: none;}
+
+
+
+#cfacebook{
+    padding-bottom: 70px;
+    margin-right: 10px;
+}
+
+#cfacebook a img{
+    position: absolute;
+    bottom: 3pt !important;
+    right: 20pt!important;
+    z-index: 9999;
+}
+
+/*#cfacebook .fb-page span{
+    width: 250px !important;
+    height: 310px !important;
+}*/
+
+#cfacebook .fb_iframe_widget iframe {
+    right: -15px;
+}
+
+.fb-customerchat span iframe{
+    right: 0pt !important;
+    bottom: 45pt!important;
+    width: 280pt !important;
+}
+
+.fb_customer_chat_bubble_pop_in{
+    bottom: 3pt !important;
+    right: 35pt!important;
+}
+
+/*.chat-now{
+    position: fixed;
+    bottom: 56pt !important;
+    right: 25pt!important;
+    color: #FFFFFF;
+    padding: 3px 10px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    z-index: 99999999;
+    font-size: 10px;
+}*/
+
+@media (max-width:375px) {
+    .fb-customerchat span .fb_customer_chat_bounce_in_v2_mobile_chat_started{
+        width: 80% !important;
+    }
+}
+
+@media (max-width:320px) {
+    .fb-customerchat span .fb_customer_chat_bounce_in_v2{
+        width: 260pt !important;
+    }
+}
+@media (min-width:321px) and (max-width:340px) {
+    .fb-customerchat span .fb_customer_chat_bounce_in_v2{
+        width: 265pt !important;
+    }
+}
+
+.header_phone{
+    display: inline-block;
+    line-height: 35px;
+    color: rgba(255, 255, 255, .7);
+    float: right;
+    margin-right: 20px;
+}
+
+.header_phone span{
+    background: #cc0000/*#ef1616*/;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+.header_phone i, .header_phone a{
+    color: #fff;
+    font-weight: bold;
+}
+
+.header_phone a:hover{
+    color: #fff;
+}
+
+.header_phone span {
+    -webkit-animation: color_change 2s infinite alternate;
+    -moz-animation: color_change 2s infinite alternate;
+    -ms-animation: color_change 2s infinite alternate;
+    -o-animation: color_change 2s infinite alternate;
+    animation: color_change 2s infinite alternate;
+}
+.header_phone{
+    z-index: 9999;
+    position: fixed;
+    bottom: 15px;
+    right: 90pt;
+    line-height: 20px;
+}
+
+@-webkit-keyframes wrench {
+    0% {
+        -webkit-transform: rotate(-12deg);
+        transform: rotate(-12deg);
+    }
+
+    8% {
+        -webkit-transform: rotate(12deg);
+        transform: rotate(12deg);
+    }
+
+    10% {
+        -webkit-transform: rotate(24deg);
+        transform: rotate(24deg);
+    }
+
+    18% {
+        -webkit-transform: rotate(-24deg);
+        transform: rotate(-24deg);
+    }
+
+    20% {
+        -webkit-transform: rotate(-24deg);
+        transform: rotate(-24deg);
+    }
+
+    28% {
+        -webkit-transform: rotate(24deg);
+        transform: rotate(24deg);
+    }
+
+    30% {
+        -webkit-transform: rotate(24deg);
+        transform: rotate(24deg);
+    }
+
+    38% {
+        -webkit-transform: rotate(-24deg);
+        transform: rotate(-24deg);
+    }
+
+    40% {
+        -webkit-transform: rotate(-24deg);
+        transform: rotate(-24deg);
+    }
+
+    48% {
+        -webkit-transform: rotate(24deg);
+        transform: rotate(24deg);
+    }
+
+    50% {
+        -webkit-transform: rotate(24deg);
+        transform: rotate(24deg);
+    }
+
+    58% {
+        -webkit-transform: rotate(-24deg);
+        transform: rotate(-24deg);
+    }
+
+    60% {
+        -webkit-transform: rotate(-24deg);
+        transform: rotate(-24deg);
+    }
+
+    68% {
+        -webkit-transform: rotate(24deg);
+        transform: rotate(24deg);
+    }
+
+    75% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+}
+
+@keyframes wrench {
+    0% {
+        -webkit-transform: rotate(-12deg);
+        -ms-transform: rotate(-12deg);
+        transform: rotate(-12deg);
+    }
+
+    8% {
+        -webkit-transform: rotate(12deg);
+        -ms-transform: rotate(12deg);
+        transform: rotate(12deg);
+    }
+
+    10% {
+        -webkit-transform: rotate(24deg);
+        -ms-transform: rotate(24deg);
+        transform: rotate(24deg);
+    }
+
+    18% {
+        -webkit-transform: rotate(-24deg);
+        -ms-transform: rotate(-24deg);
+        transform: rotate(-24deg);
+    }
+
+    20% {
+        -webkit-transform: rotate(-24deg);
+        -ms-transform: rotate(-24deg);
+        transform: rotate(-24deg);
+    }
+
+    28% {
+        -webkit-transform: rotate(24deg);
+        -ms-transform: rotate(24deg);
+        transform: rotate(24deg);
+    }
+
+    30% {
+        -webkit-transform: rotate(24deg);
+        -ms-transform: rotate(24deg);
+        transform: rotate(24deg);
+    }
+
+    38% {
+        -webkit-transform: rotate(-24deg);
+        -ms-transform: rotate(-24deg);
+        transform: rotate(-24deg);
+    }
+
+    40% {
+        -webkit-transform: rotate(-24deg);
+        -ms-transform: rotate(-24deg);
+        transform: rotate(-24deg);
+    }
+
+    48% {
+        -webkit-transform: rotate(24deg);
+        -ms-transform: rotate(24deg);
+        transform: rotate(24deg);
+    }
+
+    50% {
+        -webkit-transform: rotate(24deg);
+        -ms-transform: rotate(24deg);
+        transform: rotate(24deg);
+    }
+
+    58% {
+        -webkit-transform: rotate(-24deg);
+        -ms-transform: rotate(-24deg);
+        transform: rotate(-24deg);
+    }
+
+    60% {
+        -webkit-transform: rotate(-24deg);
+        -ms-transform: rotate(-24deg);
+        transform: rotate(-24deg);
+    }
+
+    68% {
+        -webkit-transform: rotate(24deg);
+        -ms-transform: rotate(24deg);
+        transform: rotate(24deg);
+    }
+
+    75% {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+}
+
+.faa-wrench.animated,
+.faa-wrench.animated-hover:hover,
+.faa-parent.animated-hover:hover > .faa-wrench {
+    -webkit-animation: wrench 2.5s ease infinite;
+    animation: wrench 2.5s ease infinite;
+    transform-origin-x: 90%;
+    transform-origin-y: 35%;
+    transform-origin-z: initial;
+}
+
+.faa-shake.animated,
+.faa-shake.animated-hover:hover,
+.faa-parent.animated-hover:hover > .faa-shake {
+    -webkit-animation: wrench 2.5s ease infinite;
+    animation: wrench 2.5s ease infinite;
+}

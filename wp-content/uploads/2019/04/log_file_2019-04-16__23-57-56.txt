@@ -1,0 +1,1075 @@
+
+---Downloaded files---
+The import files for: Child - Storement were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://phone.test
+Data file = D:\webdesign\public_html\shop\phone/wp-content/themes/storement/demo-content/storement/shopical.xml
+Widget file = D:\webdesign\public_html\shop\phone/wp-content/themes/storement/demo-content/storement/shopical.wie
+Customizer file = D:\webdesign\public_html\shop\phone/wp-content/themes/storement/demo-content/storement/shopical.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Accessories
+[WARNING] Failed to import product_tag Best Seller
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag New Arrival
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Trending
+[WARNING] Failed to import product_tag Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Bed
+[WARNING] Failed to import product_cat Chair
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Set
+[WARNING] Failed to import product_cat Single
+[WARNING] Failed to import product_cat Sitting
+[WARNING] Failed to import product_cat Sofa
+[WARNING] Failed to import product_cat Table
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Wooden
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+---Importing widgets---
+Off-canvas Panel : 
+
+AFTS Author Info - No Title - Imported
+
+Shop Sidebar : 
+
+woocommerce_layered_nav_filters - Active filters - Site does not support widget
+woocommerce_price_filter - No Title - Site does not support widget
+woocommerce_layered_nav - Filter by Color - Site does not support widget
+woocommerce_layered_nav - Filter by Size - Site does not support widget
+woocommerce_products - On-sale Products - Site does not support widget
+Mây Thẻ - No Title - Imported
+woocommerce_products - Featured Products - Site does not support widget
+
+Main Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+Bài viết mới - No Title - Widget already exists
+Phản hồi gần đây - No Title - Widget already exists
+Lưu trữ - No Title - Widget already exists
+Chuyên mục - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer First Section : 
+
+woocommerce_products - Latest Products - Site does not support widget
+
+Footer Second Section : 
+
+woocommerce_products - Featured Products - Site does not support widget
+
+Footer Third Section : 
+
+woocommerce_products - On-sale Products - Site does not support widget
+
+Above Footer Section : 
+
+shopical_categorised_product_list - No Title - Site does not support widget
+AFTS Latest Posts - No Title - Imported
+AFTS Call to Action - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,8 @@
+2019-04-17T00:16:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\webdesign\public_html\shop\phone\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-04-17T00:18:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\webdesign\public_html\shop\phone\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-04-17T07:56:58+00:00 CRITICAL Can't use method return value in write context in D:\public_html\phone\wp-content\plugins\woo-total-sales\includes\awts-backend-general-overview-wc-reports.php on line 278
+
+2019-04-17T07:57:09+00:00 CRITICAL Can't use method return value in write context in D:\public_html\phone\wp-content\plugins\woo-total-sales\includes\awts-backend-general-overview-wc-reports.php on line 278
+

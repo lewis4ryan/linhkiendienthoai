@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Child - Storement were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://phone.test
+Data file = D:\public_html\phone/wp-content/themes/storement/demo-content/storement/shopical.xml
+Widget file = D:\public_html\phone/wp-content/themes/storement/demo-content/storement/shopical.wie
+Customizer file = D:\public_html\phone/wp-content/themes/storement/demo-content/storement/shopical.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Off-canvas Panel : 
+
+AFTS Author Info - No Title - Widget already exists
+
+Shop Sidebar : 
+
+Bộ lọc sản phẩm đang kích hoạt - Active filters - Widget already exists
+Lọc sản phẩm bởi giá - No Title - Widget already exists
+Lọc sản phẩm bởi Thuộc tính - Filter by Color - Widget already exists
+Lọc sản phẩm bởi Thuộc tính - Filter by Size - Widget already exists
+Sản phẩm - On-sale Products - Widget already exists
+Mây Thẻ - No Title - Widget already exists
+Sản phẩm - Featured Products - Widget already exists
+
+Main Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+Bài viết mới - No Title - Widget already exists
+Phản hồi gần đây - No Title - Widget already exists
+Lưu trữ - No Title - Widget already exists
+Chuyên mục - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer First Section : 
+
+Sản phẩm - Latest Products - Widget already exists
+
+Footer Second Section : 
+
+Sản phẩm - Featured Products - Widget already exists
+
+Footer Third Section : 
+
+Sản phẩm - On-sale Products - Widget already exists
+
+Above Footer Section : 
+
+AFTS Product List - No Title - Imported
+AFTS Latest Posts - No Title - Imported
+AFTS Call to Action - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

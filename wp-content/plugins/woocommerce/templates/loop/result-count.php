@@ -22,7 +22,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 ?>
-<p class="woocommerce-result-count">
+<p class="ĐƯỜNG 3/2, F14, Q10, TP woocommerce-result-count">
 	<?php
 	if ( $total <= $per_page || -1 === $per_page ) {
 		/* translators: %d: total results */

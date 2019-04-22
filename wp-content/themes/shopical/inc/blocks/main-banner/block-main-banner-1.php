@@ -19,34 +19,32 @@
         <div class="banner-slider banner-slider-section col-80 float-l pad">
 
             <h3 style="color: blue; font-weight: bold; font-size: 22px">
-                Linh kiện điện thoại HCM
+                Linh Phụ kiện điện thoại Mạnh Tín
             </h3>
-
             <p>
-                ĐỊA CHỈ : 606/59 ĐƯỜNG 3/2, F14, Q10, TP HCM. ĐỐI DIỆN NGÃ 3 NGUYỄN LÂM <-> 3/2.
+                <i class="fa fa-map-marker"> </i> Địa chỉ cửa hàng: 38 ĐHT42, P.Tân Hưng Thuận, Quận 12, HCM
             </p>
-
+            <p >
+                Quý khách đặt hàng trực tiếp trên <b>WEBSITE</b> hoặc qua <b>ZALO <a href="tel:0964567961"><span style="color:red">0964.567.961</span></a></b>
+                <br/>
+                <span >
+                    <i class="fa fa-phone"></i> Liên Hệ:
+                    <br/>
+                    Mr. Tín: <span ><a style="color: #0000ff; font-weight: bold" href="tel:0949670909">0949 67 09 09</a></span>
+                    <br/>
+                    Mrs. Linh: <span ><a style="color: #0000ff; font-weight: bold" href="tel:0836444489">0836 4444 89</a></span>
+                </span>
+            </p>
 
             <p >
-                QUÍ KHÁCH ĐẶT HÀNG: trực tiết trên WEBSITE hoặt qua zalo:
+                <span style="color: red; font-size: 15px; font-weight: bold">* GIÁ TRÊN WEB LÀ GIÁ BÁN BUÔN - BÁN SỈ</span>
                 <br/>
-                <span style="background: #ffff00">
-                    LIÊN HỆ:
-                091.8857.209 ( MR: HẢI ) 0979.941.478 (Mr: VƯƠNG)
-                </span>
-
+                -  Khách hàng sẽ được chiết khấu trực tiếp 3% với hóa đơn từ 5 triệu trở lên. (Áp dụng giá trên web ạ).
+                <br/>
+                -  Phần trăm (%) chiết khấu tùy vào giá trị đơn hàng khi Khách hàng nhập hàng.
             </p>
-
-            <p style="color: red; font-size: 15px">
-                CHƯƠNG TRÌNH CHIẾT KHẤU: TRÊN 5TR GIẢM 1%. TRÊN 10TR GIẢM 1.5%. TRÊN 20TR GIẢM 2%. TRÊN 30TR GIẢM 3%. KO CHIẾT KHẤU THẺ NHỚ
-            </p>
-
-            <p>
-                NHẬN ĐÓNG HÀNG ĐI TỈNH
-            </p>
-
             <p style="font-weight: bold">
-                GIAO HÀNG MIỄN PHÍ NỘI THÀNH TRONG PHẠM VI 5KM VỚI HÓA ĐƠN TỪ 1TR5 TRỞ LÊN, DƯỚI 1TR5 PHÍ 30K. ĐƠN HÀNG THẤP NHẤT 200K. ( KO SHIP COD )
+                - Giao hàng toàn quốc - đi tỉnh.
             </p>
         </div>
     <?php endif; ?>

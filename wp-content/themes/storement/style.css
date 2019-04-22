@@ -476,3 +476,7 @@ html, body{
     -webkit-animation: wrench 2.5s ease infinite;
     animation: wrench 2.5s ease infinite;
 }
+
+.woocommerce .woocommerce-message  a.button.wc-forward:hover{
+    background: #000;
+}
